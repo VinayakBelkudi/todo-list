@@ -1,0 +1,61 @@
+body{
+    max-width: 100%;
+    min-width: 100%;
+    background: #83a4d4;
+    background: -webkit-linear-gradient(to right, #b6fbff, #83a4d4);  
+    background: linear-gradient(to right, #b6fbff, #83a4d4);
+
+}
+.logoArea{
+    padding-top: 58%;
+}
+.logoArea img{
+    margin-left: 10px;
+    width: 200px;
+    padding-bottom: 8px;
+}
+.logoArea h3{
+    color: #000;
+    font-size: 16px;
+    text-align: left;
+}
+.loginAreaForm{
+    padding-top: 30%;
+}
+.round{
+    border: 2px solid #bdc3c7;
+    border-radius: 50%;
+    width: 157px;
+    height: 152px;
+}
+.userIcon{
+    position: relative;
+    left: 108px;
+    top: -18px;
+
+}
+.userIcon img{
+    position: relative;
+    top: -154px;
+    left: 16px;
+    width: 28%;
+}
+.btn{
+    color: #000; 
+    width: 100%;
+    border-color:#9d50bb;
+}
+.btn:hover{
+    background-color: #ecf0f1;
+    color:#4e4376;
+    font-weight:600;
+}
+.btn:active{
+    background-color: #ecf0f1;
+    color:#4e4376;
+    font-weight:700;
+}
+/* .loginAreaForm{
+    border-left: 1px solid #ecf0f1;
+    padding-right: 5px;
+} */
